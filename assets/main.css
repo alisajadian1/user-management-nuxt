@@ -1,0 +1,18 @@
+:root {
+  --primary-color: #1f2937;
+  --accent-color: #718096;
+  --bg-color: #1e1e1e;
+  --text-color: #d8dfee;
+  --border-radius: 16px;
+
+  /* text size */
+  /* --title-size: 16px;
+  --name-size: 14px; */
+}
+
+body {
+  direction: rtl;
+  font-family: "Vazirmatn", sans-serif;
+  background-color: var(--bg-color);
+  margin: 0;
+}
